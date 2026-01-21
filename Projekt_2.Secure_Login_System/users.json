@@ -1,0 +1,8 @@
+{
+  "admin": {
+    "password_hash": "$2b$12$k4EZz6Pi3ajw1GJ7cPgs4eIh9pb2A8.wh9Xinysa45CNX3Y9ExSvG",
+    "salt": "$2b$12$k4EZz6Pi3ajw1GJ7cPgs4e",
+    "failed_attempts": 0,
+    "blocked_until": 0
+  }
+}

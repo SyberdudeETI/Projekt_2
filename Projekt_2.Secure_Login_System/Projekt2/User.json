@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password_hash": "...",
+    "salt": "...",
+    "failed_attempts": 0,
+    "blocked_until": 0
+  },
+  "User1": {
+    "password_hash": "...",
+    "salt": "...",
+    "failed_attempts": 0,
+    "blocked_until": 0
+  }
+}
